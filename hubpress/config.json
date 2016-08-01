@@ -2,9 +2,27 @@
   "meta": {
     "username": "DavidTPate",
     "repositoryName": "davidtpate.com",
-    "branch": "gh-pages"
+    "branch": "gh-pages",
+    "cname": "davidtpate.com"
+  },
+  "site": {
+    "title": "Coding, Managing, Developing",
+    "description": "Pretty Sure Everything Here Is Wrong",
+    "cover": "http://2.gravatar.com/userimage/47188827/badbe02cd441093c4bd99f5d43460ef2?size=800",
+    "googleAnalytics": "UA-10449952-11",
+    "disqus": "davidtpate"
+  },
+  "socialnetwork": {
+    "email": "davidtpate@gmail.com",
+    "twitter": "DavidTPate",
+    "googleplus": "DavidTPate",
+    "linkedin": "DavidTPate",
+    "facebook": "DavidTPate",
+    "flickr": "DavidTPate",
+    "instagram": "DavidTPate",
+    "github": "DavidTPate"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
